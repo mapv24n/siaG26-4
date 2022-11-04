@@ -1,0 +1,12 @@
+.formCont{
+	width:40%;
+	margin: 15px auto;
+}
+
+#imgLogo{
+	display:block;
+	margin: 25px auto;
+	border: 15px auto;
+	padding: 15px auto;
+
+}
